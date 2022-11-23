@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/yancode/yancod/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yancod/yancod/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
